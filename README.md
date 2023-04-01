@@ -1,8 +1,6 @@
 ## Tomoyuki Hiranuma  
-### About Me
-Tokyo Institute of Technology majoring in computer science  
-study about Genetic Algorithm  
-web developer  
+### About Me 
+web developer　@ stadium inc,  
 ### Github stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tomoyuki-hiranuma&theme=radical&count_private=true&show_icon=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoyuki-hiranuma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
