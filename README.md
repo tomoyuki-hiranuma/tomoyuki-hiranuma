@@ -1,6 +1,7 @@
 ## Tomoyuki Hiranuma  
 ### About Me 
-web developer@stadium,inc.  
+web developer@stadium,inc. 
+[twitter](https://twitter.com/__N_u_m_a){:target="_blank"}
 ### Github stats
 ![GitHub Stats Card](https://github-readme-stats-beta-one-67.vercel.app/api?username=tomoyuki-hiranuma&theme=radical&show_icon=true)
 [![Top Langs](https://github-readme-stats-beta-one-67.vercel.app/api/top-langs/?username=tomoyuki-hiranuma&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
